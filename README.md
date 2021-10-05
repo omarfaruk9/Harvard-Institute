@@ -10,7 +10,7 @@
 *<strong>Official computer course</strong>
 
 <p>Please review your service</p>
-#<h2>Thank you for join with us</h2>
+<h2>Thank you for join with us</h2>
 
 
 
