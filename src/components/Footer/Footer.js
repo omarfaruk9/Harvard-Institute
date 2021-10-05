@@ -12,7 +12,8 @@ const Footer = () => {
                 <div className="col-lg-5 ">
                     <h1>Harvard Institute</h1>
                     <h4>Level-2,Capsul Market Nirala Morh, Tangail.</h4>
-                    <p>Email: abc@gmail.com</p>
+                    <p><i class="far fa-envelope"></i> Email: abc@gmail.com</p>
+                    <p><i class="fas fa-phone"></i> +436769378</p>
                 </div>
                 <div className="col-lg-3">
                     <NavLink className="link text-light" to="/home">Home</NavLink><br />
