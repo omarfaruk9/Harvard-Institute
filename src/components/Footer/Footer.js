@@ -10,7 +10,7 @@ const Footer = () => {
             <footer class="container row mx-auto  text-center py-5">
 
                 <div className="col-lg-5 ">
-                    <h2>Roning Institute</h2>
+                    <h1>Harvard Institute</h1>
                     <h4>Level-2,Capsul Market Nirala Morh, Tangail.</h4>
                     <p>Email: abc@gmail.com</p>
                 </div>
