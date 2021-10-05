@@ -1,0 +1,13 @@
+.feature-details {
+    border: 2px solid yellowgreen;
+    background-color: steelblue;
+}
+
+.title {
+    margin-bottom: 50px;
+    color: darkgoldenrod;
+}
+
+.carousel-img {
+    height: 500px;
+}

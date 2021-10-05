@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "title": "Basic Computer Course",
+        "image": "https://storage-prtl-co.imgix.net/endor/articles/426/images/1563266691_shutterstock_768252712.jpg?w=800&h=532&auto=format,compress&q=40",
+        "price": "49$",
+        "course_du": "2.5 Month",
+        "info": "Learn the basic parts of a computer, including the monitor, computer case, and keyboard."
+    },
+    {
+        "id": "02",
+        "title": "Basic graphic design course",
+        "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/06/Types-of-graphic-design.jpg?auto=format&q=60&w=1860&h=1090&fit=crop&crop=faces",
+        "price": "65$",
+        "course_du": "3 Month",
+        "info": "Graphic design is a craft where professionals create visual content to communicate messages. "
+    },
+    {
+        "id": "03",
+        "title": "Basic programing",
+        "image": "https://foundersguide.com/wp-content/uploads/2020/11/programming-1.jpg",
+        "price": "37$",
+        "course_du": "6 Month",
+        "info": " One of the simplest high-level languages, with commands similar to English, it can be learned with relative ease even by schoolchildren and novice programmers."
+    },
+    {
+        "id": "04",
+        "title": "Official computer course",
+        "image": "https://s3.eu-west-2.amazonaws.com/1training.org/wp-content/uploads/2020/08/18220053/ITIL%C2%AE-4-Foundation-Course-with-Official-Exam-460x307.jpg",
+        "price": "57$",
+        "course_du": "3 Month",
+        "info": "Computer once meant a person who did computations, but now the term almost universally refers to automated electronic machinery."
+    }
+]

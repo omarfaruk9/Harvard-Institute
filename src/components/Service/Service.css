@@ -1,0 +1,15 @@
+.image {
+    width: 100%;
+    height: 230px;
+}
+
+.service-card1 {
+    height: 600px;
+    background-color: teal;
+    color: white;
+}
+
+.service-card {
+    background-color: teal;
+    color: white;
+}

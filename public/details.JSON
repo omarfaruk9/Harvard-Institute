@@ -1,0 +1,66 @@
+[
+    {
+        "id": "01",
+        "title": "Basic Computer Course",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtADW3GESQV3DoPRdcecM1geAfiunf11eL9w&usqp=CAU",
+        "price": "24$",
+        "course_du": "2.5 Month",
+        "info": "Learn the basic parts of a computer, including the monitor, computer case, and keyboard."
+    },
+    {
+        "id": "02",
+        "title": "Web desing",
+        "image": "https://miro.medium.com/max/3200/1*5IYtIe5OwxeoYXi226J-Uw.jpeg",
+        "price": "46$",
+        "course_du": "4 Month",
+        "info": "Learn the basic web desing, including the monitor, computer case, and keyboard."
+    },
+    {
+        "id": "03",
+        "title": "Basic graphic design course",
+        "image": "https://www.designhill.com/design-blog/wp-content/uploads/2018/08/post-s.jpg",
+        "price": "34$",
+        "course_du": "3 Month",
+        "info": "Graphic design is a craft where professionals create visual content to communicate messages. "
+    },
+    {
+        "id": "04",
+        "title": "Basic programing for kids",
+        "image": "https://charteredskills.com/media/Course/basic-programming-for-kids/Basic_Programming__For_Kids.jpg",
+        "price": "37$",
+        "course_du": "6 Month",
+        "info": " One of the simplest high-level languages, with commands similar to English, it can be learned with relative ease even by schoolchildren and novice programmers."
+    },
+    {
+        "id": "05",
+        "title": "Official computer course",
+        "image": "https://s3.eu-west-2.amazonaws.com/1training.org/wp-content/uploads/2020/08/18220053/ITIL%C2%AE-4-Foundation-Course-with-Official-Exam-460x307.jpg",
+        "price": "57$",
+        "course_du": "2.5 Month",
+        "info": "Computer once meant a person who did computations, but now the term almost universally refers to automated electronic machinery."
+    },
+    {
+        "id": "05",
+        "title": "Java Script",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqe-p7YChGAeg7rcaBqvkvXB6u7Cp_paCv6URIUtszdl5DnicETLqFiBdCT2601S4mXI&usqp=CAU",
+        "price": "57$",
+        "course_du": "3 Month",
+        "info": "JavaScript is a well-known programming language on the internet. It's also known as the HTML programming language, and it's commonly used on the internet."
+    },
+    {
+        "id": "07",
+        "title": "C++ Programming language",
+        "image": "https://mk0setscholarsn9sko6.kinstacdn.com/wp-content/uploads/2020/09/C-Code.png",
+        "price": "47$",
+        "course_du": "6 Month",
+        "info": "C++ is a programming language that extends the C programming language. It's a programming language that combines features from both low-level and high-level languages."
+    },
+    {
+        "id": "08",
+        "title": "C Programming language",
+        "image": "https://cdn.pixabay.com/photo/2015/10/31/12/27/c-1015531_640.jpg",
+        "price": "36$",
+        "course_du": "6 Month",
+        "info": "Computer once meant a person who did computations, but now the term almost universally refers to automated electronic machinery."
+    }
+]

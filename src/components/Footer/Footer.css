@@ -1,0 +1,12 @@
+.footer {
+    color: white;
+    margin-top: 50px;
+}
+
+.footer {
+    background-image: url(../../images//foooter-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

@@ -1,0 +1,21 @@
+.about {
+    margin: 100px 0;
+}
+
+.about-text h1 {
+    color: rgb(240, 90, 90);
+}
+
+.about-img {
+    height: 340px;
+}
+
+.icons {
+    border: 3px solid lightcoral;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.icons:hover {
+    color: blueviolet;
+}
