@@ -1,4 +1,4 @@
-# <h1>Roning Institute</h1>
+# <h1>Harvard Institute</h1>
 
 <h3>Live site link: </h3>
 
