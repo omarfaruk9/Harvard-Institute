@@ -2,7 +2,7 @@
     {
         "id": "01",
         "title": "Basic Computer Course",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtADW3GESQV3DoPRdcecM1geAfiunf11eL9w&usqp=CAU",
+        "image": "./images/about-1.jpg",
         "price": "24$",
         "course_du": "2.5 Month",
         "info": "Learn the basic parts of a computer, including the monitor, computer case, and keyboard."

@@ -9,7 +9,7 @@ const Service = (props) => {
     return (
         <div>
             <Col className="mt-0">
-                <Card className="h-100 service-card  shadow">
+                <Card className="h-100 service-card1  shadow">
                     <Card.Img variant="top" src={image} className="image" />
                     <Card.Body>
                         <Card.Title className="tex"><h1>{title}</h1></Card.Title>

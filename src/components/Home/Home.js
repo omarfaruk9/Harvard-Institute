@@ -15,7 +15,7 @@ const Home = () => {
     return (
         <div>
             <div className="container">
-                <h1 className="text-center text-danger mt-5 fw-bolder">Our Service</h1>
+                <h1 className="text-center text-danger mt-5 fw-bolder">Our Servicesss</h1>
                 <Row className="service-section g-4 row row-cols-lg-3 row-cols-md-2 row-cols-1">
                     {
                         courses.map(course => <Service course={course}></Service>)
